@@ -1,0 +1,255 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-08 BZR 5171)-product   date = Sat 11 Oct 2014 10:31:15 IDT
+
+BeginCmp
+TimeStamp = /51BC8340/51BC84D4;
+Reference = C401;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BC84C7;
+Reference = C402;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/53CC3588;
+Reference = C403;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/53CC3804;
+Reference = C404;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE1EB;
+Reference = D401;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE27A;
+Reference = D402;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE265;
+Reference = D403;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE281;
+Reference = D404;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE26C;
+Reference = D405;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE288;
+Reference = D406;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE273;
+Reference = D407;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BDE28F;
+Reference = D408;
+ValeurCmp = DIODESCH;
+IdModule  = TiZed_New:SOD-128;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C5A821;
+Reference = P101;
+ValeurCmp = Motor Power;
+IdModule  = TiZed:Terminal_Block_5mm_2pos;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C5A814;
+Reference = P102;
+ValeurCmp = Logic Power;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C2B47F;
+Reference = P103;
+ValeurCmp = Phase A;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C2B5AC;
+Reference = P104;
+ValeurCmp = Phase B;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C40B63;
+Reference = P109;
+ValeurCmp = Phase A;
+IdModule  = TiZed:Terminal_Block_5mm_2pos;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C40D98;
+Reference = P110;
+ValeurCmp = Phase B;
+IdModule  = TiZed:Terminal_Block_5mm_2pos;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C7CBB9;
+Reference = P115;
+ValeurCmp = Motor Power;
+IdModule  = TiZed:Terminal_Block_5mm_2pos;
+EndCmp
+
+BeginCmp
+TimeStamp = /54354619;
+Reference = P116;
+ValeurCmp = Logic Power;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5351583D;
+Reference = P117;
+ValeurCmp = Cur. Sen. Ctr.;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5435BA8D;
+Reference = P118;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5435BCFD;
+Reference = P119;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5435BD8C;
+Reference = P121;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5435BDCB;
+Reference = P122;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_3-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /543442C0;
+Reference = R101;
+ValeurCmp = 0;
+IdModule  = Wire_Connections_Bridges:WireConnection_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = /54344F3B;
+Reference = R102;
+ValeurCmp = 0;
+IdModule  = Wire_Connections_Bridges:WireConnection_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BC8A31;
+Reference = R401;
+ValeurCmp = 14m;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BC8A3E;
+Reference = R402;
+ValeurCmp = 14m;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FF778;
+Reference = R403;
+ValeurCmp = 5.25k;
+IdModule  = SMD_Packages:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FF79E;
+Reference = R404;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FF7A9;
+Reference = R405;
+ValeurCmp = 5.25k;
+IdModule  = SMD_Packages:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FF7C0;
+Reference = R406;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/51BC83B4;
+Reference = U401;
+ValeurCmp = L298;
+IdModule  = SMD_DIL:powerso-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FECB8;
+Reference = U402;
+ValeurCmp = MAX9918/19/20;
+IdModule  = SMD_Packages:SO8_WITH_EP;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BC8340/534FECD4;
+Reference = U403;
+ValeurCmp = MAX9918/19/20;
+IdModule  = SMD_Packages:SO8_WITH_EP;
+EndCmp
+
+EndListe
